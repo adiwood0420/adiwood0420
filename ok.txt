@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 abc
+=======
+
+is it right ?
+>>>>>>> new2
